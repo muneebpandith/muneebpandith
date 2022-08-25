@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###Hi 👋, I'm Muneeb
+### Hi 👋, I'm Muneeb
 
 - 🎓 I’m currently a PhD Student @ <a href="https://home.iitd.ac.in/" target="_blank" rel="noreferrer">IITD</a> working in the intersecting areas of computing and collabrative robotics.
 - 📝 I maintain a blog <a href="https://muneebpandith.github.io/blog" target="_blank" rel="noreferrer">here</a>  where I talk about some interesting stuff.
