@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Muneeb</h1>
-- 🎓 I’m currently a PhD Student [@ IITD](http://home.iitd.ac.in) working in the intersecting areas of computing and collabrative robotics.
-- 📝 I maintain a blog [here](http://muneebpandith.github.io/blog) where I talk about some interesting stuff.
-- 💬 Reach to me @ [https://muneebpbandith.github.io](https://muneebpbandith.github.io) 
+- 🎓 I’m currently a PhD Student @ <a href="https://home.iitd.ac.in/" target="_blank" rel="noreferrer">IITD</a> working in the intersecting areas of computing and collabrative robotics.
+- 📝 I maintain a blog <a href="https://muneebpandith.github.io/blog" target="_blank" rel="noreferrer">here</a>  where I talk about some interesting stuff.
+- 💬 Reach to me @ <a href="https://muneebpandith.github.io/" target="_blank" rel="noreferrer">muneebpandith.github.io</a> 
